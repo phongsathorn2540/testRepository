@@ -5,5 +5,6 @@
     echo "Hello Thailand";
 
     echo "aik";
+    echo "Manussawee";
 
 ?>
