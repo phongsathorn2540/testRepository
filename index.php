@@ -10,5 +10,6 @@
 
     echo "nuu";
     echo "Katechai";
+    echo "ไก่เอาไหมกรุง";
 
 ?>
