@@ -7,4 +7,8 @@
     echo "aik";
     echo "Manussawee";
 
+
+    echo "nuu";
+    echo "Katechai";
+
 ?>
